@@ -4,15 +4,16 @@
 
 11-2020/12/25：李佳晖、蒋志宏、叶钰楠、郭雪
 
-12-2020/1/8：张凤达、李星晨、高凯锋、
+12-2021/1/8：张凤达、李星晨、高凯锋、
 
-13-2020/1/22:唐作其、邵飞飞、黄一峰、俞鑫
+13-2021/1/22:唐作其、邵飞飞、黄一峰、俞鑫
 
 ## **10-2020/12/11**
 
-肖少宁 
+肖少宁 VLG-Net: Video-Language Graph Matching Network for Video Grounding arxiv Nov 19 2020
 
-陈思启
+陈思启 Learning Joint Spatial-Temporal Transformations for Video Inpainting ECCV2020
+
 
 马文博  Multi-Fact Correction in Abstractive Text Summarization EMNLP 2020 & Spelling Error Correction with Soft-Masked BERT ACL2020
 
@@ -22,9 +23,9 @@
 
 钱旭峰
 
-李琳
+李琳 PCPL: Predicate-Correlation Perception Learningfor Unbiased Scene Graph Generation MM2020
 
-郑宇航
+郑宇航 Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering EMNLP2020
 
 ## **8-2020/11/13**	
 
@@ -39,11 +40,11 @@
 
 张凤达	Federated Learning for Vision-and-Language Grounding Problems									
 
-李星晨										
+李星晨	Discovering Human Interactions with Novel Objects via Zero-Shot Learning 								
 
 高凯锋	Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context CVPR2020							
 
-唐作其	
+唐作其	Data Valuation for Federated Learning (A Principled Approach to Data Valuation for Federated Learning. arXiv:2009.06192 (2020))
 
 ## 6-2020/10/16											
 
