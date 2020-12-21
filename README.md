@@ -2,13 +2,21 @@
 
 # Schedule
 
-10-2020/12/11: 肖少宁 、陈思启、马文博  
-
 11-2020/12/25：李佳晖、蒋志宏、叶钰楠、郭雪
 
 12-2020/1/8：张凤达、李星晨、高凯锋、
 
 13-2020/1/22:唐作其、邵飞飞、黄一峰、俞鑫
+
+## **10-2020/12/11**
+
+肖少宁 
+
+陈思启
+
+马文博  Multi-Fact Correction in Abstractive Text Summarization EMNLP 2020 & Spelling Error Correction with Soft-Masked BERT ACL2020
+
+
 
 ## **9-2020/11/27**
 
